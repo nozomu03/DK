@@ -5656,7 +5656,13 @@ Game_Map.prototype.tilesetFlags = function() {
 };
 
 Game_Map.prototype.displayName = function() {
-    return $dataMap.displayName;
+    if($mapName != null)
+    {        
+        return $mapName;
+    }
+    else{
+        return $dataMap.displayName;
+    }
 };
 
 Game_Map.prototype.width = function() {

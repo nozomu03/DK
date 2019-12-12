@@ -1,6 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"sen_battle","characterIndex":0,"characterName":"sen","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"---","nickname":"깨어진 거울 속의 망량","note":"","profile":"전 공화국 독립특수군 [철장미 기사단] 수석기사.\n"},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"sen_battle","characterIndex":0,"characterName":"sen","classId":1,"equips":[1,1,1],"faceIndex":0,"faceName":"","traits":[],"initialLevel":30,"maxLevel":99,"name":"---","nickname":"깨어진 거울 속의 망량","note":"","profile":"전 공화국 독립특수군 [철장미 기사단] 수석기사.\n"},
+{"id":2,"battlerName":"main","characterIndex":0,"characterName":"main","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ㅁㅁㅁ","nickname":"???","note":"","profile":"현 공화국군 군인"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Homun","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":14,"dataId":5,"value":1},{"code":14,"dataId":6,"value":1},{"code":14,"dataId":7,"value":1},{"code":14,"dataId":8,"value":1},{"code":14,"dataId":9,"value":1},{"code":14,"dataId":10,"value":1},{"code":14,"dataId":11,"value":1}],"initialLevel":20,"maxLevel":99,"name":"호문쿨루스","nickname":"호문쿨루스","note":"","profile":"마법으로 만들어진 호문쿨루스"}
 ]

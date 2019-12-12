@@ -15,6 +15,7 @@ var $dataActors       = null;
 var $dataClasses      = null;
 var $dataSkills       = null;
 var $dataItems        = null;
+var $mapName          = null;
 var $dataWeapons      = null;
 var $dataArmors       = null;
 var $dataEnemies      = null;
@@ -59,7 +60,8 @@ DataManager._databaseFiles = [
     { name: '$dataTilesets',     src: 'Tilesets.json'     },
     { name: '$dataCommonEvents', src: 'CommonEvents.json' },
     { name: '$dataSystem',       src: 'System.json'       },
-    { name: '$dataMapInfos',     src: 'MapInfos.json'     }
+    { name: '$dataMapInfos',     src: 'MapInfos.json'     },
+    { name: '$mapManger',        src: 'Map001.json'}
 ];
 
 DataManager.loadDatabase = function() {
