@@ -559,26 +559,31 @@ Window_Base.prototype.drawActorHp = function(actor, x, y, width) {
                            this.hpColor(actor), this.normalColor());
 };
 
-Window_Base.prototype.drawActorMp = function(actor, x, y, width) {
-    width = width || 186;
-    var color1 = this.mpGaugeColor1();
-    var color2 = this.mpGaugeColor2();
-    this.drawGauge(x, y, width, actor.mpRate(), color1, color2);
-    this.changeTextColor(this.systemColor());
-    this.drawText(TextManager.mpA, x, y, 44);
-    this.drawCurrentAndMax(actor.mp, actor.mmp, x, y, width,
-                           this.mpColor(actor), this.normalColor());
+Window_Base.prototype.drawActorMp = function(actor, x, y, width) {    
+    if(actor._classId != 2){
+        width = width || 186;
+        var color1 = this.mpGaugeColor1();
+        var color2 = this.mpGaugeColor2();
+        this.drawGauge(x, y, width, actor.mpRate(), color1, color2);
+        this.changeTextColor(this.systemColor());
+        this.drawText(TextManager.mpA, x, y, 44);
+        this.drawCurrentAndMax(actor.mp, actor.mmp, x, y, width,
+                            this.mpColor(actor), this.normalColor());
+    }
 };
 
 Window_Base.prototype.drawActorTp = function(actor, x, y, width) {
-    width = width || 96;
-    var color1 = this.tpGaugeColor1();
-    var color2 = this.tpGaugeColor2();
-    this.drawGauge(x, y, width, actor.tpRate(), color1, color2);
-    this.changeTextColor(this.systemColor());
-    this.drawText(TextManager.tpA, x, y, 44);
-    this.changeTextColor(this.tpColor(actor));
-    this.drawText(actor.tp, x + width - 64, y, 64, 'right');
+    if(actor._classId == 2){
+        width = width || 96;
+        x=375;
+        var color1 = this.tpGaugeColor1();
+        var color2 = this.tpGaugeColor2();
+        this.drawGauge(x, y, width, actor.tpRate(), color1, color2);
+        this.changeTextColor(this.systemColor());
+        this.drawText(TextManager.tpA, x, y, 44);
+        this.changeTextColor(this.tpColor(actor));
+        this.drawText(actor.tp, x + width - 64, y, 64, 'right');
+    }
 };
 
 Window_Base.prototype.drawActorSimpleStatus = function(actor, x, y, width) {
