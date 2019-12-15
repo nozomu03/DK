@@ -1,6 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"산장","order":1,"parentId":0,"scrollX":648.8,"scrollY":1072},
-{"id":2,"expanded":true,"name":"다락방","order":2,"parentId":1,"scrollX":655.2,"scrollY":384.8},
-{"id":3,"expanded":false,"name":"3번 쉘터","order":3,"parentId":0,"scrollX":655.2,"scrollY":384.8}
+{"id":1,"expanded":true,"name":"산장","order":1,"parentId":0,"scrollX":648.8,"scrollY":594.4},
+{"id":2,"expanded":true,"name":"다락방","order":2,"parentId":1,"scrollX":454.2,"scrollY":567.6},
+{"id":3,"expanded":true,"name":"3번 쉘터","order":3,"parentId":0,"scrollX":454.2,"scrollY":567.6},
+{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":3,"scrollX":832,"scrollY":640}
 ]

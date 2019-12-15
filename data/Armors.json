@@ -3,5 +3,5 @@ null,
 {"id":1,"atypeId":1,"description":"영원한 겨울이 도래한 세계에서 살아남기 위해 필요한\n가장 기본적인 의복이다.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":153,"name":"표준 방한복","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
 {"id":2,"atypeId":2,"description":"인간과의 전투를 상정하여 개발된 방탄복.\n","etypeId":3,"traits":[{"code":22,"dataId":1,"value":-0.02}],"iconIndex":153,"name":"1형 전투복","note":"","params":[0,0,0,30,0,0,0,0],"price":100},
 {"id":3,"atypeId":3,"description":"[괴물]과의 전투에 대비하여 개발된 최신식 보호의.\n생명유지장치가 내장되어 있다.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":153,"name":"2형 전투복","note":"","params":[200,0,0,50,0,0,0,0],"price":800},
-{"id":4,"atypeId":0,"description":"통상의 보호의로는 진입할 수 없을 정도로 기온이 낮은 \n곳에서도 활동할 수 있도록 옷에 부착하는 물건이다.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":188,"name":"추가 보온팩","note":"","params":[0,0,0,0,10,0,0,0],"price":0}
+{"id":4,"atypeId":4,"description":"통상의 보호의로는 진입할 수 없을 정도로 기온이 낮은 \n곳에서도 활동할 수 있도록 옷에 부착하는 물건이다.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":188,"name":"추가 보온팩","note":"","params":[0,0,0,0,10,0,0,0],"price":0}
 ]

@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"sen_battle","characterIndex":0,"characterName":"sen","classId":1,"equips":[1,1,1],"faceIndex":0,"faceName":"","traits":[],"initialLevel":30,"maxLevel":99,"name":"---","nickname":"깨어진 거울 속의 망량","note":"","profile":"전 공화국 독립특수군 [철장미 기사단] 수석기사.\n"},
-{"id":2,"battlerName":"main","characterIndex":0,"characterName":"main","classId":2,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":23,"dataId":0,"value":0.8},{"code":33,"dataId":0,"value":2}],"initialLevel":10,"maxLevel":99,"name":"ㅁㅁㅁ","nickname":"???","note":"","profile":"공화국군"},
+{"id":2,"battlerName":"main","characterIndex":0,"characterName":"main","classId":2,"equips":[3,0,1,0],"faceIndex":0,"faceName":"","traits":[{"code":23,"dataId":0,"value":0.8},{"code":33,"dataId":0,"value":2}],"initialLevel":10,"maxLevel":99,"name":"ㅁㅁㅁ","nickname":"???","note":"","profile":"공화국군"},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},

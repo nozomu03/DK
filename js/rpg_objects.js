@@ -1798,9 +1798,6 @@ Game_Action.prototype.applyItemEffect = function(target, effect) {
     case Game_Action.EFFECT_RECOVER_MP:
         this.itemEffectRecoverMp(target, effect);
         break;
-    case Game_Action.EFFECT_GAIN_TP:
-        this.itemEffectGainTp(target, effect);
-        break;
     case Game_Action.EFFECT_ADD_STATE:
         this.itemEffectAddState(target, effect);
         break;
@@ -3206,16 +3203,16 @@ Game_Battler.prototype.gainMp = function(value) {
 };
 
 Game_Battler.prototype.gainTp = function(value) {
-    this._result.tpDamage = -value;
-    this.setTp(this.tp + value);
+    //this._result.tpDamage = -value;
+    //this.setTp(this.tp + value);
 };
 
 Game_Battler.prototype.gainSilentTp = function(value) {
-    this.setTp(this.tp + value);
+    //this.setTp(this.tp + value);
 };
 
 Game_Battler.prototype.initTp = function() {
-    this.setTp(Math.randomInt(25));
+    this.setTp(Math.randomInt(0));
 };
 
 Game_Battler.prototype.clearTp = function() {
