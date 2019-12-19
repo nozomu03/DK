@@ -3,8 +3,9 @@ null,
 {"id":1,"expanded":true,"name":"산장","order":1,"parentId":0,"scrollX":648.8,"scrollY":594.4},
 {"id":2,"expanded":true,"name":"다락방","order":2,"parentId":1,"scrollX":567.75,"scrollY":709.5},
 {"id":3,"expanded":true,"name":"3번 쉘터","order":3,"parentId":0,"scrollX":893.4545454545455,"scrollY":521.4545454545455},
-{"id":4,"expanded":false,"name":"통제실","order":4,"parentId":3,"scrollX":884.7272727272727,"scrollY":678.5454545454546},
-{"id":5,"expanded":false,"name":"복도","order":5,"parentId":3,"scrollX":893.4545454545455,"scrollY":521.4545454545455},
-{"id":6,"expanded":true,"name":"숙소동","order":6,"parentId":3,"scrollX":893.4545454545455,"scrollY":521.4545454545455},
-{"id":7,"expanded":false,"name":"202호","order":7,"parentId":6,"scrollX":893.4545454545455,"scrollY":521.4545454545455}
+{"id":4,"expanded":false,"name":"통제실","order":4,"parentId":3,"scrollX":811,"scrollY":679},
+{"id":5,"expanded":false,"name":"복도","order":5,"parentId":3,"scrollX":811,"scrollY":530},
+{"id":6,"expanded":true,"name":"숙소동","order":6,"parentId":3,"scrollX":819,"scrollY":478},
+{"id":7,"expanded":false,"name":"202호","order":7,"parentId":6,"scrollX":819,"scrollY":478},
+{"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":6,"scrollX":720.8888888888889,"scrollY":535.1111111111111}
 ]
