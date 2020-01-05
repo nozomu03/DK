@@ -560,7 +560,7 @@ Window_Base.prototype.drawActorHp = function(actor, x, y, width) {
 };
 
 Window_Base.prototype.drawActorMp = function(actor, x, y, width) {    
-    if(actor._classId != 2){
+    if(actor._classId != 2 && actor._classId != 4){
         width = width || 186;
         var color1 = this.mpGaugeColor1();
         var color2 = this.mpGaugeColor2();
@@ -573,7 +573,7 @@ Window_Base.prototype.drawActorMp = function(actor, x, y, width) {
 };
 
 Window_Base.prototype.drawActorTp = function(actor, x, y, width) {
-    if(actor._classId == 2){
+    if(actor._classId == 2 || actor._classId == 4){
         width = width || 96;
         x=375;
         var color1 = this.tpGaugeColor1();
