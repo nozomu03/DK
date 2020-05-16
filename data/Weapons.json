@@ -1,7 +1,8 @@
 [
 null,
 {"id":1,"animationId":111,"description":"가장 기본적인 형태의 권총","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":55,"dataId":1,"value":1}],"iconIndex":104,"name":"PD-2","note":"","params":[0,0,10,0,0,0,0,0],"price":20,"wtypeId":2},
-{"id":2,"animationId":112,"description":"가장 기본적인 형태의 돌격소총","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":55,"dataId":1,"value":1}],"iconIndex":115,"name":"SS21","note":"","params":[0,0,15,0,0,0,0,0],"price":40,"wtypeId":1},
+{"id":2,"animationId":112,"description":"가장 기본적인 형태의 돌격소총","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":115,"name":"SS21","note":"","params":[0,0,15,0,0,0,0,0],"price":40,"wtypeId":1},
 {"id":3,"animationId":111,"description":"공화국제 저격소총","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5},{"code":55,"dataId":1,"value":1}],"iconIndex":116,"name":"REP-93","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":3},
-{"id":4,"animationId":6,"description":"기다란 검.\n화기가 등장하기 전까지 전장의 주역으로 활약했다.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"장검","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":6}
+{"id":4,"animationId":6,"description":"기다란 검.\n화기가 등장하기 전까지 전장의 주역으로 활약했다.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"장검","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":6},
+{"id":5,"animationId":6,"description":"혹한지에 사는 흰 늑대의 이빨는 강철마저 찢어버릴\n정도로 날카롭다.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.03},{"code":55,"dataId":1,"value":1}],"iconIndex":96,"name":"백랑의 송곳니 단검","note":"","params":[0,0,20,0,0,0,5,0],"price":0,"wtypeId":6}
 ]

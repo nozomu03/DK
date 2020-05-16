@@ -4,3 +4,16 @@ Mrguff - Bottle Cap Drop(https://freesound.org/people/Mrguff/sounds/369707/)
 JBarmore - Cocking Automatic Shotgun_Slow(https://freesound.org/people/JBarmore/sounds/216421/)
 Citlaly - clapping.wav(https://freesound.org/people/Citlaly/sounds/412055/)
 AntumDeluge Undead Moan 2(https://freesound.org/people/AntumDeluge/sounds/417825/)
+
+
+Plugin
+HimeWorks
+http://himeworks.com/2015/11/enemy-equips/
+
+Yanfly
+http://www.yanfly.moe/wiki/Battle_Engine_Core_(YEP)
+http://www.yanfly.moe/wiki/Action_Sequence_Pack_1_(YEP)
+http://www.yanfly.moe/wiki/Action_Sequence_Pack_2_(YEP)
+
+Rexal
+https://forums.rpgmakerweb.com/index.php?threads/animated-enemies.47991/
